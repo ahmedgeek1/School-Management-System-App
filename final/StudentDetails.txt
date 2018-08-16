@@ -1,0 +1,8 @@
+Employee Details: 
+User id: ahmed
+Student Name: ahmed
+Student Email: ahmed
+Student Phone Number: ahmed
+Student Sex: ahmed
+Student Class 1: Class 1: ahmed
+Student Class 2: Class 2: ahmed
